@@ -15,4 +15,5 @@ public class ProductRequest {
     private String color;
     private Integer quantity;
     private Integer price;
+    private String category;
 }
