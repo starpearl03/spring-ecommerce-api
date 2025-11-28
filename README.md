@@ -4,11 +4,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kudzaiprichard/realestate-backend">
+  <a href="https://github.com/starpearl03/bazaar-api">
     <img src="images/logo/ecommerce-logo.jpg" alt="Logo">
   </a>
 
-  <h3 align="center">Ecommerce Backend Api</h3>
+  <h3 align="center">Bazaar API</h3>
 
   <p align="center">
     An basic ecommerce restful api backend 
@@ -125,7 +125,7 @@ You should have the below softawares installed in your pc :
 2. Clone the repo
 
    ```sh
-   git clone https://github.com/kudzaiprichard/spring-ecommerce-api
+   git clone https://github.com/starpearl03/spring-ecommerce-api
    ```
 
 3. Open project in IDE or text editor
@@ -179,9 +179,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kudzai P Matizirofa - [linkedin.com/in/kudzai-prichard](www.linkedin.com/in/kudzai-prichard) - <kudzaiprichard@gmail.com>
+Kudzai P Matizirofa - [linkedin.com/in/kudzai-prichard](www.linkedin.com/in/kudzai-prichard) - <starpearl03@gmail.com>
 
-Project Link: [https://github.com/kudzaiprichard/spring-ecommerce-api](https://github.com/kudzaiprichard/spring-ecommerce-api)
+Project Link: [https://github.com/starpearl03/spring-ecommerce-api](https://github.com/starpearl03/spring-ecommerce-api)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
